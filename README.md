@@ -5,13 +5,6 @@ The project focuses on clean content presentation, smooth navigation, and an ele
 
 ---
 
-## 🚀 Live Demo
-
-🔗 Live Website: https://ziadshaaban1234.github.io/Adasa/  
-📂 Source Code: https://github.com/ziadshaaban1234/Adasa.git  
-
----
-
 ## ✨ Core Features
 
 - 📝 Dynamic blog posts rendered from JSON data  
